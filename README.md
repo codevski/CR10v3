@@ -68,6 +68,8 @@ Changes/tweaks from stock CR-10 V2 config
 - Two builds of the firmware, one with BLTouch enabled and one with it disabled for those who haven't installed a BLTouch yet
 ## Downloads
 
-Pre-compiled firmware can be found in the [firmware](#) folder or on the [Releases](https://github.com/codevski/CR10v3-Firmware/releases) page
+Drivers: [th3dstudio](https://support.th3dstudio.com/hc/en-us/articles/360043291432-CH340-Drivers-TH3D-Uno-Creality-V1-1-4-V1-1-5-Board)
+
+Pre-compiled firmware can be found in the [firmware](https://github.com/codevski/CR10v3-Firmware/tree/main/firmware) folder or on the [Releases](https://github.com/codevski/CR10v3-Firmware/releases) page
 
 ## Changelog
