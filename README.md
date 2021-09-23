@@ -36,7 +36,7 @@
   <sub>The little project that could. Built with ❤︎ by
   <a href="https://twitter.com/codevski">codevski</a> and
   <a href="#">
-    contributors
+    contributors.
   </a>
 </div>
 <br />
